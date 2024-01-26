@@ -1,0 +1,30 @@
+Bibliotecas Python Mais utilizadas
+
+pip install 
+
+pandas 
+mysql-connector-python 
+psycopg2 
+sshtunnel 
+pymysql 
+scrapy 
+beautifulsoup4 
+SQLAlchemy
+pydantic
+selenium
+requests
+holidays
+numpy
+plotly
+matplotlib
+seaborn
+pyautogui
+
+# para criar interfaces graficas
+Kivy4
+Tkinter
+
+
+#Google devConsole API SHEETS
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
